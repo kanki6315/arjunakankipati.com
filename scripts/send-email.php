@@ -14,9 +14,6 @@ $message = "
 <body>
 <table width='50%' border='0' align='center' cellpadding='0' cellspacing='0'>
   <tr>
-    <td colspan='2' align='center' valign='top'><img src='http://www.izee.ro/img/izee.png'></td>
-  </tr>
-  <tr>
     <td width='50%' align='right'>&nbsp;</td>
     <td align='left'>&nbsp;</td>
   </tr>
