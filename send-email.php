@@ -4,12 +4,12 @@
  $from=$_POST["email"];
  $msg=$_POST["message"];
  $receiver="arjuna.kankipati@gmail.com";
- $subject="Contact";
+ $subject="Message from arjuna.kankipati@gmail.com";
 
 $message = "
 <html>
 <head>
-<title>MyWALL Contact</title>
+<title>Website Contact</title>
 </head>
 <body>
 <table width='50%' border='0' align='center' cellpadding='0' cellspacing='0'>
